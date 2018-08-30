@@ -9,6 +9,6 @@ During a play, any disks of the opponent's color that are in a straight line and
 The object of the game is to have the majority of disks turned to display your color when the last playable empty square is filled.
 
 Here we have 4x4 grid where two users can paly the game.
-   palyer1 -> White coins(w)
-   palyer2 -> Black coins(b)
+   palyer1 -> White coins(w),
+   palyer2 -> Black coins(b).
 Atlast winner will the one who will have more coins at the end i.e no place in the grid to keep a coin.
